@@ -11,14 +11,14 @@
     <?php
     $age = 18;
         echo "Im being hunted";
-    print  "/n";
+
     if ($age >= 21){
-        print "/n1 2 3";
+        print "<p>1 2 3</p>    ";
     }
     elseif($age >= 18){
-        print "/n1 2";
+        print  "<p>1 2</p>";
     }
-    else print "/n1";
+    else print "<p>1</p>";
 
     ?>
 </p>
