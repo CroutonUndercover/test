@@ -10,7 +10,7 @@
 <p>
     <?php
     $age = 18;
-        echo "Im being hunted";
+        echo "Im being hunted/n";
     if ($age >= 21){
         print "/n1 2 3";
     }
