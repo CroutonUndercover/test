@@ -14,7 +14,7 @@
     if ($age >= 21){
         print "1 2 3";
     }
-    elseif($age >= 21){
+    elseif($age >= 18){
         print "1 2";
     }
     else print "1";
