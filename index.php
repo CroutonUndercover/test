@@ -6,12 +6,13 @@
 </head>
 <body>
 <H1>ITS ALIVEE</H1>
-<img src="oprah.jpg" alt="oprah" width="1000" height="1000">
+<img src="oprah.jpg" alt="oprah" width="500" height="500">
 <p>
     <?php
         echo "Im being hunted";
-        ?>
+
+    ?>
 </p>
 
 </body>
-</html>s
+</html>
