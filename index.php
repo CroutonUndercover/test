@@ -6,7 +6,7 @@
 </head>
 <body>
 <H1>ITS ALIVEE</H1>
-<img src="oprah.jpg" alt="oprah" width="500" height="500">
+<img src="oprah.jpg" alt="oprah" width="200" height="200">
 <p>
     <?php
     $age = 18;
